@@ -10,9 +10,9 @@ Descarga el ejecutable según tu sistema operativo:
 El código está escrito en Python 3.10 y las interfaces fueron diseñadas con Qt Designer e importadas con `pyuic5`, los ejecutables están hechos con Pyinstaller.
 
 ## Interfaz  
-![Captura-1](img/screenshot-1.png)
+![Captura-1](img/Screenshot-1.png)
 
-![Captura-2](img/screenshot-2.png)
+![Captura-2](img/Screenshot-2.png)
 
 ## 📜 Licencia  
 Este proyecto está bajo la licencia MIT.
